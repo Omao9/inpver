@@ -1,0 +1,3 @@
+{
+  "runArgs": ["--shm-size=1g"]
+}
